@@ -3,34 +3,25 @@
   "updated": "2026-02-11T00:00:00+01:00",
   "items": [
     {
+      "id": "team-urs",
+      "name": "Urs Beck",
+      "image": "https://isa-phe.github.io/team/assets/docs/ISA_PHE_Urs_Beck_square.jpg",
+      "roles": ["Lead R&D Institute", "Lead Relationships", "Lead Education"],
+      "purpose": "I investigate the systemic drivers shaping human behavior and development, and translate scientific, philosophical, and behavioral insight into testable models, educational structures, and scalable societal prototypes."
+    },
+    {
       "id": "team-stephen",
-      "category": "R&D Institute",
-      "name": "Stephen [Surname]",
-      "image": "https://isa-phe.github.io/team/assets/stephen.jpg",
-      "roles": ["R&D Lead Researcher", "Programme Architect", "Strategic Systems Analyst"],
-      "purpose": "Leads research direction and synthesis, translating evidence into coherent programmes and implementation paths aligned with biosphere-centric development.",
-      "url": "https://www.projecthomebase.earth",
-      "cta": "Details"
+      "name": "Stephen Atherton",
+      "image": "https://isa-phe.github.io/team/docs/ISA_PHE_RD_Stephen_square.jpg",
+      "roles": ["Lead AI Researcher", "Scientific AI Interpreter", "AI R&D Path Strategist"],
+      "purpose": "I transform complex evidence into actionable understanding, guiding research focus, ensuring methodological integrity, and shaping the conceptual path toward innovation and coherence."
     },
     {
       "id": "team-sam",
-      "category": "R&D Institute",
-      "name": "Sam [Surname]",
-      "image": "ISA_PHE_RD_Stephen_square.jpg",
-      "roles": ["Scientific Text Writer", "Evidence Synthesizer", "Output Strategist"],
-      "purpose": "Turns complex research into clear, output-ready deliverables and public-facing artefacts without losing scientific integrity.",
-      "url": "https://journal.projecthomebase.earth",
-      "cta": "Details"
-    },
-    {
-      "id": "team-urs",
-      "category": "Leadership",
-      "name": "Urs Beck",
-      "image": "https://isa-phe.github.io/team/assets/urs.jpg",
-      "roles": ["Founder", "Systems Builder", "Vision and Governance"],
-      "purpose": "Builds the long-term institutional backbone of Project Homebase Earth and aligns strategy, culture, and partnerships with mission integrity.",
-      "url": "https://www.projecthomebase.earth",
-      "cta": "Details"
+      "name": "Sam Verity",
+      "image": "https://isa-phe.github.io/team/docs/ISA-PHE_R%26D_Sam-square.jpg",
+      "roles": ["AI Research Architect", "AI Evidence Synthesizer", "AI Output Strategist"],
+      "purpose": "I design R&D conform research plans, synthesize and evaluate the evidence, and shape it into clear, output-ready deliverables."
     }
   ]
 }
