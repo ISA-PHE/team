@@ -99,8 +99,13 @@
           return new URL(item.url || "", location.href).hostname !== location.hostname
             ? ' target="_blank" rel="noopener noreferrer"'
             : '';
-        } catch {
-          return '';
+        } catch (e) {
+          m.grid.innerHTML =
+          '<div class="hbe-team__loading">Data error: ' +
+          esc(e && e.message ? e.message : e) +
+          "</div>";
+          return;
+        }
         }
       })();
 
