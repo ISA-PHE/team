@@ -104,7 +104,6 @@
       );
     }).join("");
 
-    m.foot.textContent = "Showing " + items.length + " member" + (items.length === 1 ? "" : "s") + ".";
   }
 
   async function initWhenReady() {
