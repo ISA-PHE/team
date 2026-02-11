@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updated": "2026-02-11T00:00:00+01:00",
+  "items": [
+    {
+      "id": "team-stephen",
+      "category": "R&D Institute",
+      "name": "Stephen [Surname]",
+      "image": "https://isa-phe.github.io/team/assets/stephen.jpg",
+      "roles": ["R&D Lead Researcher", "Programme Architect", "Strategic Systems Analyst"],
+      "purpose": "Leads research direction and synthesis, translating evidence into coherent programmes and implementation paths aligned with biosphere-centric development.",
+      "url": "https://www.projecthomebase.earth",
+      "cta": "Details"
+    },
+    {
+      "id": "team-sam",
+      "category": "R&D Institute",
+      "name": "Sam [Surname]",
+      "image": "https://isa-phe.github.io/team/assets/sam.jpg",
+      "roles": ["Scientific Text Writer", "Evidence Synthesizer", "Output Strategist"],
+      "purpose": "Turns complex research into clear, output-ready deliverables and public-facing artefacts without losing scientific integrity.",
+      "url": "https://journal.projecthomebase.earth",
+      "cta": "Details"
+    },
+    {
+      "id": "team-urs",
+      "category": "Leadership",
+      "name": "Urs Beck",
+      "image": "https://isa-phe.github.io/team/assets/urs.jpg",
+      "roles": ["Founder", "Systems Builder", "Vision and Governance"],
+      "purpose": "Builds the long-term institutional backbone of Project Homebase Earth and aligns strategy, culture, and partnerships with mission integrity.",
+      "url": "https://www.projecthomebase.earth",
+      "cta": "Details"
+    }
+  ]
+}
