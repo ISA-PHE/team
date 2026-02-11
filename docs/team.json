@@ -5,21 +5,21 @@
     {
       "id": "team-urs",
       "name": "Urs Beck",
-      "image": "https://isa-phe.github.io/team/docs/ISA_PHE_Urs_Beck_square.jpg",
+      "image": "https://isa-phe.github.io/team/ISA_PHE_Urs_Beck_square.jpg",
       "roles": ["Lead R&D Institute", "Lead Relationships", "Lead Education"],
       "purpose": "I investigate the systemic drivers shaping human behavior and development, and translate scientific, philosophical, and behavioral insight into testable models, educational structures, and scalable societal prototypes."
     },
     {
       "id": "team-stephen",
       "name": "Stephen Atherton",
-      "image": "https://isa-phe.github.io/team/docs/ISA_PHE_RD_Stephen_square.jpg",
+      "image": "https://isa-phe.github.io/team/ISA_PHE_RD_Stephen_square.jpg",
       "roles": ["Lead AI Researcher", "Scientific AI Interpreter", "AI R&D Path Strategist"],
       "purpose": "I transform complex evidence into actionable understanding, guiding research focus, ensuring methodological integrity, and shaping the conceptual path toward innovation and coherence."
     },
     {
       "id": "team-sam",
       "name": "Sam Verity",
-      "image": "https://isa-phe.github.io/team/docs/ISA-PHE_R%26D_Sam-square.jpg",
+      "image": "https://isa-phe.github.io/team/ISA-PHE_R%26D_Sam-square.jpg",
       "roles": ["AI Research Architect", "AI Evidence Synthesizer", "AI Output Strategist"],
       "purpose": "I design R&D conform research plans, synthesize and evaluate the evidence, and shape it into clear, output-ready deliverables."
     }
